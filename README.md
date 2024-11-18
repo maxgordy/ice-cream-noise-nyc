@@ -1,3 +1,4 @@
+Note: Noise Complaint file is very large so I have not committed it here, but it can be downloaded at link below.
 **R**
 
 I took [this](https://data.cityofnewyork.us/Social-Services/311-Noise-Complaints/p5f6-bkga/about_data) dataset on 311 noise complaints, [this](https://data.cityofnewyork.us/City-Government/NTA-map/d3qk-pfyz) dataset of NTAs, and [this](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/about_data) dataset on parks properties. See comments in R file for details. 
